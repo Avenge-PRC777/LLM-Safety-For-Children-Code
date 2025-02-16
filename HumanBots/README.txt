@@ -1,0 +1,1 @@
+This folder contains the User Model prompt that takes input the personas, seeds and creates user messages using Mistral model to converse with a target LLM
